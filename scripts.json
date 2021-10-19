@@ -32,4 +32,15 @@
       "thumbnail": "https://cdn.discordapp.com/attachments/883506179806990436/899823282092658778/6009c7314fa31.png"
     }
   },
+            {
+    "id": 3,
+    "title": "Dex V4",
+    "desc" :"Best script and instances explorer.",
+     "type" :"uni",
+    "script": "loadstring(game:HttpGetAsync('https://pastebin.com/raw/iuQPQq4M'))()",
+    "createdby": "Raspberry PI",
+    "img": {
+      "thumbnail": "https://i.gyazo.com/15a7ecf20b834f0402e95492ae6ad4ee.png"
+    }
+  },
 ]
