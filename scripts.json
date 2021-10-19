@@ -1,0 +1,35 @@
+[
+    {
+    "id": 0,
+    "title": "Pepsi Byte",
+    "desc" :"OP Shark Bite n' more games",
+    "script": "loadstring(game:HttpGet('https://raw.githubusercontent.com/Natthawat69/EvilHub-FREE/main/Script.lua'))()",
+    "type" :"hub",
+    "createdby": "Unknown",
+    "img": {
+      "thumbnail": "https://rbxscripts.xyz/wp-content/uploads/2021/09/unknown-4-150x150.png"
+    }
+  },
+      {
+    "id": 1,
+    "title": "Owl Hub (Discontinued)",
+    "desc" :"The best script, is discontinued but still works.",
+     "type" :"hub",
+    "script": "loadstring(game:HttpGet('https://raw.githubusercontent.com/ZinityDrops/OwlHubLink/master/OwlHubBack.lua'))();",
+    "createdby": "CriShoux",
+    "img": {
+      "thumbnail": "https://gamingpirate.com/wp-content/uploads/2021/01/owl-hub1.jpg"
+    }
+  },
+        {
+    "id": 2,
+    "title": "Dark Hub",
+    "desc" :"Best script for fps games, the best hub right now.",
+     "type" :"hub",
+    "script": "loadstring(game:HttpGet('https://raw.githubusercontent.com/ZinityDrops/OwlHubLink/master/OwlHubBack.lua'))();",
+    "createdby": "trill",
+    "img": {
+      "thumbnail": "https://cdn.discordapp.com/attachments/883506179806990436/899823282092658778/6009c7314fa31.png"
+    }
+  },
+]
