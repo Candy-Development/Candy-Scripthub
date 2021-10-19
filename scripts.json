@@ -26,7 +26,7 @@
     "title": "Dark Hub",
     "desc" :"Best script for fps games, the best hub right now.",
      "type" :"hub",
-    "script": "loadstring(game:HttpGet('https://raw.githubusercontent.com/ZinityDrops/OwlHubLink/master/OwlHubBack.lua'))();",
+    "script": "loadstring(game:HttpGet('https://raw.githubusercontent.com/RandomAdamYT/DarkHub/master/Init', true))()",
     "createdby": "Bye",
     "img": {
       "thumbnail": "https://cdn.discordapp.com/attachments/883506179806990436/899823282092658778/6009c7314fa31.png"
