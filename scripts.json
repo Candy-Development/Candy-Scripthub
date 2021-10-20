@@ -10,6 +10,17 @@
       "thumbnail": "https://cdn.discordapp.com/attachments/890324951347920939/900209935122563142/unknown.png"
     }
   },
+                  {
+    "id": 6,
+    "title": "Infinity Yield",
+    "desc" :"The best admin for every game.",
+     "type" :"hub",
+    "script": "loadstring(game:HttpGet('https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source'))()",
+    "createdby": "Edge",
+    "img": {
+      "thumbnail": "https://cdn.discordapp.com/attachments/890324951347920939/900221474403668039/unknown.png"
+    }
+  },
     {
     "id": 0,
     "title": "Pepsi Byte",
