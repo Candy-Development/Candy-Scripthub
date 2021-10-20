@@ -43,4 +43,15 @@
       "thumbnail": "https://i.gyazo.com/15a7ecf20b834f0402e95492ae6ad4ee.png"
     }
   },
+                {
+    "id": 4,
+    "title": "Coco Hub",
+    "desc" :"Best scripthub, with a lot of scripts!",
+     "type" :"hub",
+    "script": "loadstring(game:HttpGet(('https://gitlab.com/cococc/cocohub/-/raw/master/CocoLoader'),true))()",
+    "createdby": "N4ri",
+    "img": {
+      "thumbnail": "https://cdn.discordapp.com/attachments/875920156646322178/900179297912881214/unknown.png"
+    }
+  },
 ]
