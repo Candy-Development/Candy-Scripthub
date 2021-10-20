@@ -1,4 +1,15 @@
 [
+         {
+    "id": 5,
+    "title": "VG Hub",
+    "desc" :"The best hub with 70+ games working",
+     "type" :"hub",
+    "script": "loadstring(game:HttpGet('https://raw.githubusercontent.com/1201for/V.G-Hub/main/V.Ghub'))()",
+    "createdby": "DekuDimz",
+    "img": {
+      "thumbnail": "https://cdn.discordapp.com/attachments/890324951347920939/900209935122563142/unknown.png"
+    }
+  },
     {
     "id": 0,
     "title": "Pepsi Byte",
